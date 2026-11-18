@@ -187,4 +187,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). `go test ./...` runs the table tests, th
 
 ## License
 
-[MIT](LICENSE) © Enrique Muhammad Ilham
+[MIT](LICENSE) © Enrique Muhammad
